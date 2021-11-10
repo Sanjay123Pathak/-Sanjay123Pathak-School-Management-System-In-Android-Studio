@@ -1,1 +1,1 @@
-# -Sanjay123Pathak-School-Management-System-In-Android-Studio
+# School-Management-System-In-Android-Studio
